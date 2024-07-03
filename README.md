@@ -14,6 +14,6 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list all my projects that is related to data analytics and my research studies.
 
 ## Effects of anisotropic mass into the Brownian motion of charged particle in oblique electric and magnetic fields
-**Code:** [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`] (https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
+**Code:** [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
 
  
