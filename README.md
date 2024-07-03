@@ -1,3 +1,2 @@
-Data Analyst Portfolio Project Repository
-
-This Repository will hold all of the code and queries from the Portfolio Projects I create.
+Hi! I'm John Paul G. Cañete, I have a background in theoretical physics and currently I am practicing Data Analytics. I have developed in the physical sciences and a passion for data to uncover meaningful insites. I am excited to bring my technical and analytical skills to the field of data science. 
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends.
