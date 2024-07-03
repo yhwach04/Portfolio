@@ -16,4 +16,7 @@ In this section I will list all my projects that is related to data analytics an
 ## Effects of anisotropic mass into the Brownian motion of charged particle in oblique electric and magnetic fields
 **Code:** [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
 
+**Objectives:** To investigate the effects of anisotropic mass in a charged Brownian particle under electric and magnetic fields.
+
+**Conclusions:** The study shows that the electric field causes the Brownian particle to bends the elliptacl trajectory caused by the magnetic fields.
  
