@@ -8,6 +8,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
+
 
 
 ## Portfolio Projects
