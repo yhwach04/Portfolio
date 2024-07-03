@@ -19,4 +19,10 @@ In this section I will list all my projects that is related to data analytics an
 **Objectives:** To investigate the effects of anisotropic mass in a charged Brownian particle under electric and magnetic fields.
 
 **Conclusions:** The study shows that the electric field causes the Brownian particle to bends the elliptacl trajectory caused by the magnetic fields.
+
+**Skills:** mathematical modelling, theoretical physics
+
+## Covid-19 Data Exploration
+
+**Code:** [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
  
