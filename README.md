@@ -7,4 +7,8 @@ During my studies, I honed my ability to work with complex data and developed a 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+
+
+## Portfolio Projects
+In this section I will list all my projects that is related to data analytics
