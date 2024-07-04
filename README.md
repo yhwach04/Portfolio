@@ -30,4 +30,11 @@ In this section I will list all my projects that is related to data analytics an
 **Code:** [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+ ### Spotify Tracks Analysis
+
+**Code:** [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
+
+ **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing.
+
  
