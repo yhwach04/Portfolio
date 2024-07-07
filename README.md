@@ -9,9 +9,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
-
-
+  - Python 
+    - [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
+    - [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
+    - [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
+    - [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
 
 ## Portfolio Projects
 In this section I will list all my projects that is related to data analytics and my research studies.
@@ -25,6 +27,12 @@ In this section I will list all my projects that is related to data analytics an
 
 **Skills:** mathematical modelling, theoretical physics
 
+### Data Science Job Salaries Analysis
+
+**Code:** [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
+
+**Description:** The data set contains records of data science job salaries, job titles, job experience, and etc. Here, the project includes the following steps: data loading, data cleaning and preprocessing, data visualization and EDA (exploratory data analysis). 
+ 
 ### Covid-19 Data Exploration
 
 **Code:** [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
@@ -36,5 +44,3 @@ In this section I will list all my projects that is related to data analytics an
 **Code:** [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
 
  **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing.
-
- 
