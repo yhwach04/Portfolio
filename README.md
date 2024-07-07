@@ -44,3 +44,14 @@ In this section I will list all my projects that is related to data analytics an
 **Code:** [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
 
  **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing. Formulating and testing hypotheses related to track popularity, genre trends, and other interesting patterns within the data.
+
+## Education
+
+Bachelor of Science in Physics, Central Mindanao University, Bukidnon, Philippines - A.Y. 2023 - 2024
+_Cum Laude_
+
+## Contacts
+
+**Linkedin:** www.linkedin.com/in/john-paul-cañete-a5440030b
+
+**Email:** atakashi67@gmail.com
