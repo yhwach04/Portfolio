@@ -31,16 +31,16 @@ In this section I will list all my projects that is related to data analytics an
 
 **Code:** [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
 
-**Description:** The data set contains records of data science job salaries, job titles, job experience, and etc. Here, the project includes the following steps: data loading, data cleaning and preprocessing, data visualization and EDA (exploratory data analysis). 
+**Description:** The data set contains records of data science job salaries, job titles, job experience, and etc. Here, the project includes the following steps: data loading, data cleaning and preprocessing, data visualization and EDA (exploratory data analysis). Visualizing the distribution of salaries, exploring the relationship between job titles, experience levels, and salaries, and identifying trends and patterns within the data.
  
 ### Covid-19 Data Exploration
 
 **Code:** [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis). Analyzing the spread of Covid-19 cases and deaths over time, examining the effectiveness of vaccines, and comparing the impact of Covid-19 across different countries.
 
  ### Spotify Tracks Analysis
 
 **Code:** [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
 
- **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing.
+ **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing. Formulating and testing hypotheses related to track popularity, genre trends, and other interesting patterns within the data.
