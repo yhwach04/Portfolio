@@ -1,4 +1,4 @@
-# John Paul Cañete - Data Analyst Portfolio
+# John Paul Cañete - Portfolio
 ## About
 Hi! I'm John Paul Cañete, I have a background in theoretical physics and currently I am practicing Data Analytics. I have developed in the physical sciences and a passion for data to uncover meaningful insites. I am excited to bring my technical and analytical skills to the field of data science. 
 
