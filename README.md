@@ -9,42 +9,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python 
-    - [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
-    - [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
-    - [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
-    - [`CMU Weather Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Weather_Data_Analysis.ipynb)
-
-## Portfolio Projects
-In this section I will list all my projects that is related to data analytics and my research studies.
-
-### Effects of anisotropic mass into the Brownian motion of charged particle in oblique electric and magnetic fields
-**Code:** [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
-
-**Objectives:** To investigate the effects of anisotropic mass in a charged Brownian particle under electric and magnetic fields.
-
-**Conclusions:** The study shows that the electric field causes the Brownian particle to bends the elliptacl trajectory caused by the magnetic fields.
-
-**Skills:** mathematical modelling, theoretical physics
-
-### Data Science Job Salaries Analysis
-
-**Code:** [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
-
-**Description:** The data set contains records of data science job salaries, job titles, job experience, and etc. Here, the project includes the following steps: data loading, data cleaning and preprocessing, data visualization and EDA (exploratory data analysis). Visualizing the distribution of salaries, exploring the relationship between job titles, experience levels, and salaries, and identifying trends and patterns within the data.
- 
-### Covid-19 Data Exploration
-
-**Code:** [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis). Analyzing the spread of Covid-19 cases and deaths over time, examining the effectiveness of vaccines, and comparing the impact of Covid-19 across different countries.
-
- ### CMU Weather Data Analysis
-
- **Code:** [`CMU Weather Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Weather_Data_Analysis.ipynb)
-
- **Decription:** The dataset contains records of the CMU weather station. This project was done with the collaboration of Central Mindanao University - Physics Department, in which I have analyzed the weather data that was gathered from a local weather station of CMU. Visualizing and analyizing the temperature, humidity, precipitation, and weather conditions plots.
-
+  - Python
+    - 
 ## Education
 
 Bachelor of Science in Physics, Central Mindanao University, Bukidnon, Philippines - A.Y. 2023 - 2024
