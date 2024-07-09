@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
     - [`Data Science Job Analysis`](https://github.com/yhwach04/Portfolio/blob/main/datascience-eda.ipynb)
     - [`Covid19_EDA`](https://github.com/yhwach04/Portfolio/blob/main/covid19-eda.ipynb)
-    - [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
+    - [`CMU Weather Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Weather_Data_Analysis.ipynb)
 
 ## Portfolio Projects
 In this section I will list all my projects that is related to data analytics and my research studies.
