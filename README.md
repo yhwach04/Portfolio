@@ -39,11 +39,11 @@ In this section I will list all my projects that is related to data analytics an
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis). Analyzing the spread of Covid-19 cases and deaths over time, examining the effectiveness of vaccines, and comparing the impact of Covid-19 across different countries.
 
- ### Spotify Tracks Analysis
+ ### CMU Weather Data Analysis
 
-**Code:** [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/SPOTIFY_EDA.ipynb)
+ **Code:** [`CMU Weather Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Weather_Data_Analysis.ipynb)
 
- **Description:** The dataset contains records of Spotify tracks. The dataset includes the tracks artists, genres, and etc. The project includes the following steps: data loading, data cleaning, analyzing tracks data and hypothesis testing. Formulating and testing hypotheses related to track popularity, genre trends, and other interesting patterns within the data.
+ **Decription:** The dataset contains records of the CMU weather station. This project was done with the collaboration of Central Mindanao University - Physics Department, in which I have analyzed the weather data that was gathered from a local weather station of CMU. Visualizing and analyizing the temperature, humidity, precipitation, and weather conditions plots.
 
 ## Education
 
