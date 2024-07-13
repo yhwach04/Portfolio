@@ -11,6 +11,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - [`Python`](https://github.com/yhwach04/Portfolio/tree/main/Python)
   - [`Tableau`](https://public.tableau.com/app/profile/john.paul.ca.ete/vizzes)
+  - [`SQL`](https://github.com/yhwach04/Portfolio/tree/main/SQL)
+
 ## Education
 
 Bachelor of Science in Physics, Central Mindanao University, Bukidnon, Philippines - A.Y. 2023 - 2024
@@ -18,6 +20,6 @@ _Cum Laude_
 
 ## Contacts
 
-**Linkedin:** www.linkedin.com/in/john-paul-cañete-a5440030b
+**Linkedin:** www.linkedin.com/in/johnpaulcanete 
 
 **Email:** atakashi67@gmail.com
