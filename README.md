@@ -8,12 +8,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/yhwach04/Portfolio/edit/main/README.md#john-paul-ca%C3%B1ete---portfolio)
   - [`Python`](https://github.com/yhwach04/Portfolio/tree/main/Python)
   - [`Tableau`](https://public.tableau.com/app/profile/john.paul.ca.ete/vizzes)
   - [`SQL`](https://github.com/yhwach04/Portfolio/tree/main/SQL)
   - [`Excel`](https://github.com/yhwach04/Portfolio/tree/main/Excel)
-
+- [`Education`](https://github.com/yhwach04/Portfolio/edit/main/README.md#education)
+- [`Contacts`](https://github.com/yhwach04/Portfolio/edit/main/README.md#contacts)
 ## Education
 
 Bachelor of Science in Physics, Central Mindanao University, Bukidnon, Philippines - A.Y. 2023 - 2024
