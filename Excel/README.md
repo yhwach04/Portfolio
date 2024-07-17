@@ -5,4 +5,6 @@ In this section I will list all my projects that is related to data analytics an
 
 ## [`Coffee Sales Dashboard`]()
 
-**Description:** The data set contains records of data science job salaries, job titles, job experience, and etc. Here, the project includes the following steps: data loading, data cleaning and preprocessing, data visualization and EDA (exploratory data analysis). Visualizing the distribution of salaries, exploring the relationship between job titles, experience levels, and salaries, and identifying trends and patterns within the data.
+**Description:** This project involved a detailed analysis of coffee sales data from a provided dataset to generate insights and inform strategic decisions. The dataset included sales figures for various coffee types. The primary objectives were to identify sales trends, determine the most popular coffee types, and uncover potential areas for growth. Data visualization techniques, such as bar charts and dashboards, were employed to present the findings clearly and effectively. This analysis provided valuable insights into seasonal sales patterns and customer preferences, ultimately guiding the business in optimizing its product offerings and marketing strategies.
+
+**Skills:** VLOOKUP, INDEX MATCH, PivotTable
