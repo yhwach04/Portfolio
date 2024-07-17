@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [`Python`](https://github.com/yhwach04/Portfolio/tree/main/Python)
   - [`Tableau`](https://public.tableau.com/app/profile/john.paul.ca.ete/vizzes)
   - [`SQL`](https://github.com/yhwach04/Portfolio/tree/main/SQL)
+  - [`Excel`](https://github.com/yhwach04/Portfolio/tree/main/Excel)
 
 ## Education
 
