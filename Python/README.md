@@ -1,7 +1,7 @@
 # Python Portfolio Projects
 In this section I will list all my projects that is related to data analytics (Python) and my research studies.
 
-## [`Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
+## [`Brownian_motion_of_charged_particle_in_oblique_EM_fields`](https://github.com/yhwach04/Portfolio/blob/main/Brownian_motion_of_charged_particle_in_oblique_EM_fields.ipynb)
 
 **Objectives:** To investigate the effects of anisotropic mass in a charged Brownian particle under electric and magnetic fields.
 
@@ -21,4 +21,14 @@ In this section I will list all my projects that is related to data analytics (P
 
  **Skills:** pandas, matplotlib, seaborn
 
- ## [`Spotify EDA`]()
+ ## [`Supermarket Sales Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Python/supermarket-sales.ipynb)
+
+ **Description:** This project involved a comprehensive analysis of supermarket sales data to generate insights into sales performance, customer behavior, and product preferences. The dataset included detailed transaction records with attributes such as product categories, sales amounts, payment methods, and customer demographics. The primary objectives were to identify sales trends, determine the most popular products, and uncover patterns in customer purchasing behavior.
+
+ **Skills:** Python (pandas, matplotlib, seaborn), Data Cleaning, Data Analysis, Data Visualization
+
+ ## [`Spotify Data Analysis`](https://github.com/yhwach04/Portfolio/blob/main/Python/SPOTIFY_EDA.ipynb) 
+
+ **Description:** This project involved an in-depth analysis of Spotify's music data to uncover insights about music trends, listener preferences, and song characteristics. The dataset included information on various tracks, artists, genres, and listener behavior. The primary objectives were to analyze the characteristics of popular songs, understand listener preferences across different genres, and identify trends in music consumption
+
+ **Skills:** Python (pandas, matplotlib, seaborn), Data Cleaning, Data Analysis, Data Visualization
