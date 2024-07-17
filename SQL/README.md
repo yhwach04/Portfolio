@@ -1,5 +1,5 @@
 # SQL Porfotlio Projects
-In this section are
+In this section I will list all my projects that is related to data analytics(SQL).
 
 ## [`Data Exploration of COVID-19 Data`](https://github.com/yhwach04/Portfolio/blob/main/SQL/SQL%20-%20Data%20Exploration.sql)
 
